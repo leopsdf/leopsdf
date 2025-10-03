@@ -5,7 +5,7 @@ Foco em **WordPress/PHP**, **Python + IA**, **Integração via APIs** e **Docker
 
 ---
 
-## 🔎 Portfólio selecionado
+## Portfólio selecionado
 - **INCLUA – Demo (WordPress Plugin)** · Plugin em PHP/WordPress com página de configurações e shortcode que consome uma API de IA.  
   ➜ https://github.com/leopsdf/wordpress-plugin-demo
 - **INCLUA – API de IA (FastAPI)** · Microserviço em Python (scikit-learn) com endpoint `/predict` para classificar textos.  
