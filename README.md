@@ -6,6 +6,8 @@ Foco em **WordPress/PHP**, **Python + IA**, **Integração via APIs** e **Docker
 ---
 
 ## Portfólio selecionado
+- **GestorOpenWRTSec** · Sistema de gerenciamento seguro para dispositivos **OpenWRT** com **API REST (Flask)**, geração de chaves/certificados, **autenticação JWT**, automação de configuração e **observabilidade via OpenSearch**.  
+  ➜ https://github.com/leopsdf/GestorOpenWRTSec
 - **INCLUA – Demo (WordPress Plugin)** · Plugin em PHP/WordPress com página de configurações e shortcode que consome uma API de IA.  
   ➜ https://github.com/leopsdf/wordpress-plugin-demo
 - **INCLUA – API de IA (FastAPI)** · Microserviço em Python (scikit-learn) com endpoint `/predict` para classificar textos.  
