@@ -15,17 +15,6 @@ Foco em **WordPress/PHP**, **Python + IA**, **Integração via APIs**, **Docker*
 - **Dockerized WordPress + IA API** · Ambiente Docker com WordPress + MariaDB + API de IA; comunicação interna por hostname (`aiapi`).  
   ➜ https://github.com/leopsdf/dockerized-wordpress-ai
 
-> Demonstração local completa:
-> ```bash
-> git clone https://github.com/leopsdf/dockerized-wordpress-ai
-> cd dockerized-wordpress-ai
-> docker compose up -d --build
-> # WordPress: http://localhost:8080
-> # API:       http://localhost:8000/predict?text=serviço%20público
-> ```
-> No WordPress, configure o plugin **INCLUA Demo** com `http://aiapi:8000/` e crie uma página com  
-> `[inclua_quote text="inclusão e equidade"]`.
-
 ---
 
 ## Tecnologias
