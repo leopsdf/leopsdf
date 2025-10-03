@@ -1,7 +1,7 @@
 # Leonardo de Paiva Souza
 
-Analista de Tecnologia da Informação (UnB) • Mestrando em Segurança Cibernética (UnB)  
-Foco em **WordPress/PHP**, **Python + IA**, **Integração via APIs** e **Docker**.
+Analista de Tecnologia da Informação (UnB) • Mestrando em Segurança Cibernética (UnB) | Especialista em Segurança da Informação
+Foco em **WordPress/PHP**, **Python + IA**, **Integração via APIs**, **Docker** **Kubernetes**, **Virtualização** e **DevSecOps**
 
 ---
 
